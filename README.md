@@ -4,14 +4,8 @@
 [![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/billion_rows/)
 
 ```sh
-gleam add billion_rows@1
-```
-```gleam
-import billion_rows
-
-pub fn main() -> Nil {
-  // TODO: An example of the project in use
-}
+gleam test main
+gleam run main
 ```
 
 Further documentation can be found at <https://hexdocs.pm/billion_rows>.
